@@ -14,7 +14,7 @@ https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-e6.pt
 Instructions
 Download Pre-trained Weights:
 Download the pre-trained weights from the following link:
-YOLOv7-e6 Pre-trained Weights
+[YOLOv7-e6 Pre-trained Weights](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-e6.pt)
 
 Place Weights in Folder:
 Place the downloaded weights file in the desired folder.

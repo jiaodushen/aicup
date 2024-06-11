@@ -1,0 +1,1 @@
+python train_aux.py --device 0 --batch-size 8 --data .\data\mydata.yaml --img 1280 720 --cfg .\cfg\training\yolov7-e6.yaml --hyp .\data\hyp.scratch.p5.yaml --weights .\weight\yolov7x.pt
